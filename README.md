@@ -5,5 +5,5 @@
 # Demo
 
 <p align=center>
-	<img src="calcr.png" width=30%>
+	<img src="calc.png" width=30%>
 </p>
